@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: novye-kazino.github.io
+Sitemap: https://novye-kazino.github.io/sitemap.xml
